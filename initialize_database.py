@@ -1,3 +1,3 @@
 import db_viewer
 
-initialize_database()
+db_viewer.initialize_database()
